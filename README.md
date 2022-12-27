@@ -36,4 +36,4 @@ Retired from programming server side applications in the school notifications in
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/demmings/demmings/gsSQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=demmings&repo=demmings/gsSQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/demmings/gsSQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=demmings&repo=gsSQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
