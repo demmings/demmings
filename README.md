@@ -6,7 +6,7 @@ Sheets Custom Function Developer
 
 Retired from programming server side applications in the school notifications industry. (your kid was absent (or will be absent) messages via phone, email, text...)
 
-* 🌍  I'm based in Toronto GTA
+* 🌍  I'm based in Greater Toronto Area (GTA).
 * 🖥️  See my portfolio at [My Home Page](http://demmings.github.io)
 * 🚀  I'm currently working on [gsSQL](http://github.com/demmings/gsSQL)
 * 🧠  I'm learning Google Sheets Javascript
